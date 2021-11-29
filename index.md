@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sato Pages
 
 You can use the [editor on GitHub](https://github.com/satoutakaya/api-practice-public4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
